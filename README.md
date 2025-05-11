@@ -1,6 +1,6 @@
 # HUM103 Website – AI, Religion & Ethics
 
-During my Residential Semester at BRAC University, I worked on a HUM103 project where I developed a website for our group's research.
+During my Residential Semester at BRAC University, I worked on a HUM103 project where I developed a website for a group's research.
 
 The focus was on the intersection of artificial intelligence, religion, and ethics. It includes case studies on:
 
