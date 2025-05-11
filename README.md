@@ -17,8 +17,7 @@ The focus was on the intersection of artificial intelligence, religion, and ethi
   - Rawls’ Theory of Justice  
   - Feminist Ethics  
   - Confucian Ethics  
-  - Socratic Method  
-- A final section summarizing the ethical risks and implications of AI  
+  - Socratic Method    
 
 ## Notes
 
